@@ -1,0 +1,7 @@
+this is another file > file2.txt
+git status
+git status
+git add .
+gut status
+git status
+echo this is another file
